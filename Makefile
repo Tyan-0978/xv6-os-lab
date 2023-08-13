@@ -132,6 +132,7 @@ UPROGS=\
 	$U/_grind\
 	$U/_wc\
 	$U/_zombie\
+	$U/_test\
 	$U/_sleep\
 	$U/_pingpong\
 
